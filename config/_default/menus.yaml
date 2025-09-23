@@ -1,0 +1,32 @@
+leftnav:
+- identifier: 509d6cde-e12e-4585-9b9c-da306ba835b0
+  name: Syllabus and Calendar
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 90c29caf-4f26-4f70-ade0-877e7b15ebe6
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 19498c97-52eb-45cb-8607-d188e29a14f0
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 414c6434-ab19-47c0-be7f-5d60f57a6294
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: 0993d659-866c-4db8-8c79-7fd9d9010fa0
+  name: First Writing Assignment
+  pageRef: /pages/first-writing-assignment
+  parent: 414c6434-ab19-47c0-be7f-5d60f57a6294
+  weight: 10
+- identifier: 063d5e01-ee17-4c06-afcc-eff095a6afcc
+  name: Second Writing Assignment
+  pageRef: /pages/second-writing-assignment
+  parent: 414c6434-ab19-47c0-be7f-5d60f57a6294
+  weight: 20
+- identifier: da515f8f-a099-4cdd-ae5f-5b9e53a25320
+  name: Third Writing Assignment
+  pageRef: /pages/third-writing-assignment
+  parent: 414c6434-ab19-47c0-be7f-5d60f57a6294
+  weight: 30

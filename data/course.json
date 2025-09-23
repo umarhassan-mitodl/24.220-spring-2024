@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2024",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "8f2f986f-1bff-4d99-ab41-d312789eb505"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "240e3e62-c831-4022-9753-87e4694e99e1",
+    "website": "moral-psychology"
+  },
+  "course_title": "Moral Psychology",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course is an examination of philosophical theories of action and motivation in the light of empirical findings from social psychology, sociology, and neuroscience. Topics include belief, desire, and moral motivation; sympathy and empathy; intentions and other committing states; strength of will and weakness of will; free will; addiction and compulsion; guilt, shame, and regret; evil; self-knowledge and self-deception; and virtues and character traits.",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.220",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Readings"
+  ],
+  "site_uid": "f09bfa79-fd93-4ec8-a810-edc5cd395fa9",
+  "site_short_id": "24.220-spring-2024",
+  "site_url_path": "courses/24-220-moral-psychology-spring-2024"
+}
