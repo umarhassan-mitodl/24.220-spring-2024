@@ -41,7 +41,7 @@ Students who are not majoring, minoring, or concentrating in philosophy but wish
 
 ### Requirements Satisfied
 
-24.220 can be applied toward an undergraduate {{% resource_link "3505e257-a9f8-442c-afb0-292d47308c52" "major, minor, or concentration in philosophy" %}}, but is not required.
+24.220 can be applied toward an undergraduate [major, minor, or concentration in philosophy](https://philosophy.mit.edu/undergraduate/), but is not required.
 
 ### Offered
 
