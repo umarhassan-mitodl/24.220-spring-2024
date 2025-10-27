@@ -27,7 +27,7 @@
     "website": "moral-psychology"
   },
   "course_title": "Moral Psychology",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "This course is an examination of philosophical theories of action and motivation in the light of empirical findings from social psychology, sociology, and neuroscience. Topics include belief, desire, and moral motivation; sympathy and empathy; intentions and other committing states; strength of will and weakness of will; free will; addiction and compulsion; guilt, shame, and regret; evil; self-knowledge and self-deception; and virtues and character traits.",
   "department_numbers": [
@@ -35,7 +35,6 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "24.220",
-  "hide_download_original": false,
   "learning_resource_types": [
     "Written Assignments",
     "Readings"

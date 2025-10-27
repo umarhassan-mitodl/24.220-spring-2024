@@ -19,6 +19,6 @@ Word (not PDF); 12-point font; either 1.5 or 2 spacing.
 
 *Guidelines*
 
-Again, use both direct quote and paraphrase. Here is a helpful guide: [Academic Integrity at MIT: A Handbook for Students](https://integrity.mit.edu/handbook/academic-writing/avoiding-plagiarism-paraphrasing).
+Again, use both direct quote and paraphrase. Here is a helpful guide: {{% resource_link "4a9277ae-3e18-4b0b-97aa-7cf5c4c26629" "Academic Integrity at MIT: A Handbook for Students" %}}.
 
 This assignment is due during Session 23.

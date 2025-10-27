@@ -21,6 +21,6 @@ These are primarily exercises in exposition. You are to give an accurate and det
 
 You may make reference to other papers we have read in this course if you find it helpful to do so.
 
-Since Bok writes fairly clearly, you may have to make an effort to avoid unintentionally plagiarizing her words. Use both direct quote and paraphrase. Here is a helpful guide: [Academic Integrity at MIT: A Handbook for Students](https://integrity.mit.edu/handbook/academic-writing/avoiding-plagiarism-paraphrasing).
+Since Bok writes fairly clearly, you may have to make an effort to avoid unintentionally plagiarizing her words. Use both direct quote and paraphrase. Here is a helpful guide: {{% resource_link "4a9277ae-3e18-4b0b-97aa-7cf5c4c26629" "Academic Integrity at MIT: A Handbook for Students" %}}.
 
 This assignment is due during Session 7.
